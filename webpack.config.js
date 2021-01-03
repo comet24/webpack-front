@@ -57,7 +57,7 @@ const config ={
                 test: /\.(tsx|ts)$/,
                 loader: 'ts-loader',
                 options: {
-                    configFile : process.env.NODE_ENV=="development" ? "tsconfig.dev.json"  : 'tsconfig.prod.json',
+                    configFile : "tsconfig.dev" ,
                 }
             },
         ],

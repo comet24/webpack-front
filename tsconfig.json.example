@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true,
+    "noEmitOnError": true,
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "removeComments" : true,
+    "lib": ["ES6","DOM","DOM.Iterable"]
+  }
+}

@@ -32,11 +32,10 @@ npm run test
  
 | Plugin | README |
 | ------ | ------ |
-| SCSS | [Readme](https://hub.docker.com/_/traefik) |
-| React | [Readme](https://hub.docker.com/_/nginx)  |
+| SCSS | [Readme](https://www.npmjs.com/package/node-sass) |
+| React | [Readme](https://www.npmjs.com/package/react)  |
 | Redux | [Readme](https://redux.js.org/)  |
 | Jest | [Readme](https://jestjs.io/)  |
 | TypeScript | [Readme](https://www.npmjs.com/package/ts-loader)  |
-| Dotenv | [Readme](https://hub.docker.com/r/nanoninja/php-fpm)  |
-| WebpackDevServer | [Readme](https://hub.docker.com/r/nanoninja/php-fpm)  |
-| FileLoader | [Readme](https://hub.docker.com/r/nanoninja/php-fpm)  |
+| Dotenv | [Readme](https://www.npmjs.com/package/dotenv)  |
+| WebpackDevServer | [Readme](https://www.npmjs.com/package/webpack-dev-server)  |
